@@ -1,5 +1,5 @@
 ## Traffic System
-This app shows a traffic system. User can control which light to be turned on with a click.
+This app shows a traffic system. User can control which light to be turned on with a click (using react hooks and styled components)
     
 #### Installation
 
